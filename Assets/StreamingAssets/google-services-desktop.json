@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649739793326",
+    "project_id": "cg-bus-simulator-saim",
+    "storage_bucket": "cg-bus-simulator-saim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649739793326:android:857e67feeb6f4f98e40e3f",
+        "android_client_info": {
+          "package_name": "com.pg.bus.simulator.driving.modern.city.coach.bussimulatorid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCnT9GLlWviBmmV3nfEGxtjWgNU4whrd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
